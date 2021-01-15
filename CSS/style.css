@@ -1,0 +1,20 @@
+body
+{background-color:#fff3e2;
+font-family: 'Inconsolata', sans-serif;
+
+}
+h3
+{
+  font-family: 'Alegreya', sans-serif;
+}
+
+h1
+{
+  font-family: 'rajdhani', sans-serif;
+}
+.sidemenu
+{
+width: 100px;
+height: 1200px;
+  background-color: #ebcfc4;
+}
